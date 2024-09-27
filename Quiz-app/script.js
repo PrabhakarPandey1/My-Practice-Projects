@@ -43,7 +43,7 @@ const questions = [
       { text: "Lake Baikal", correct: false },
       { text: "Caspian Sea", correct: true },
     ],
-  },
+  }
 ];
 
 const questionElement = document.getElementById("question");
